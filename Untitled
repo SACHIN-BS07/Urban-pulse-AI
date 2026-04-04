@@ -1,0 +1,2 @@
+npm install vite@latest
+npm install @vitejs/plugin-react@latest
