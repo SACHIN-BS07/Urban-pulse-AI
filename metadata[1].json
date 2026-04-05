@@ -1,9 +1,0 @@
-{
-  "name": "Remix: Remix: UrbanPulse AI",
-  "description": "Multi-agent city intelligence system for traffic, safety, and infrastructure management with real-time reporting to police officers.",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation",
-    "microphone"
-  ]
-}
