@@ -1,0 +1,9 @@
+{
+  "name": "UrbanPulse AI",
+  "description": "Real-time urban intelligence system for traffic, safety, and infrastructure management with AI-powered reporting and emergency response.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
